@@ -1,4 +1,4 @@
-#  link to my MVP application serving a static HTML page
+#  Link to my MVP application serving a static HTML page
 http://default-environment.4uijy9uppx.eu-west-2.elasticbeanstalk.com/
 
 ##  Brief description of my CD technology 
