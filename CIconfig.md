@@ -1,10 +1,10 @@
-# H1 link to your MVP application serving at least a static HTML page
+#  link to my MVP application serving a static HTML page
 http://default-environment.4uijy9uppx.eu-west-2.elasticbeanstalk.com/
 
-## H2 brief description of the CD technology 
+##  brief description of the CD technology 
 I'll be using GitHub, AWS CodePipeline and AWS Elastic Beanstalk to create a deployment pipeline for a my website This allows the website to be updated automatically every time I change my code. 
 
-### H3 How I setup and configure my build jobs 
+## How I setup and configure my build jobs 
 After creating this repository on github with a simple php file saying "Hello World!". 
 
 I. Set Up the Deployment Environment
